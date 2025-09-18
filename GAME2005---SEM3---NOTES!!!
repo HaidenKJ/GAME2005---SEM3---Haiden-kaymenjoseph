@@ -1,1 +1,32 @@
 
+
+
+
+This course is using a framework called Raylib (Remember to install it if you dont have it)
+  - Raylib gives you a lot of simple rendering capabilities right out of the box
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+_______________________________________________________________________________________________________________________________________
+Apparently:
+
+---------------------------------------------------------
+If you open up the terminal (right click in folder app ---> Select terminal)
+you can use the commands
+
+--> git clone https://github.com/GitHubUser/RepoName
+    (--------> Paste a github repo link)
+
+--> git log 
+    (This lets you see the previous commits and updates in the local folder of your repo)
