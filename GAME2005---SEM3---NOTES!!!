@@ -1,7 +1,7 @@
 
 
 
-
+This course operates on C++
 This course is using a framework called Raylib (Remember to install it if you dont have it)
   - Raylib gives you a lot of simple rendering capabilities right out of the box
     - According to Connor Smiley, The beauty of raylib is its open source nature, Unity is closed source, Unreal is well unreal, its easier to get into
