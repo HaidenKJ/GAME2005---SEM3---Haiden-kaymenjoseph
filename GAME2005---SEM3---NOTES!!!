@@ -4,7 +4,7 @@
 
 This course is using a framework called Raylib (Remember to install it if you dont have it)
   - Raylib gives you a lot of simple rendering capabilities right out of the box
-
+    - According to Connor Smiley, The beauty of raylib is its open source nature, Unity is closed source, Unreal is well unreal, its easier to get into
 
 
 
@@ -25,8 +25,10 @@ Apparently:
 If you open up the terminal (right click in folder app ---> Select terminal)
 you can use the commands
 
---> git clone https://github.com/GitHubUser/RepoName
+--> github clone https://github.com/GitHubUser/RepoName
     (--------> Paste a github repo link)
 
---> git log 
+--> github log 
     (This lets you see the previous commits and updates in the local folder of your repo)
+
+I have the desktop app for GitHub so it just routes me their instead, but hey its useful if YOU the persone viewing this dont have the app (you should tho, very bery useful)
